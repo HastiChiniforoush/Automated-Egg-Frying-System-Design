@@ -14,7 +14,7 @@
 
 ## Report circuit diagram
 
-![Original electrical circuit diagram, from the report](Electrical-Circuit-Diagram.png)
+![Original electrical circuit diagram, from the report](electrical-architecture.pdf)
 
 The image above is an embedded figure **extracted without circuit changes** from p. 73 (Section 9, Circuit Diagram). The original image is resolution-limited; no editable schematic or verified wiring netlist was available in the submitted report.
 
