@@ -57,7 +57,6 @@ Prepared from the team's *Egg Frying Machine* report, submitted **12 May 2026** 
 ## Engineering Files and Evidence
 
 ### Electrical system
-- [Circuit diagram (extracted image)](electrical-design/Electrical-Circuit-Diagram.png)
 - [Circuit diagram (PDF page extract)](electrical-design/electrical-architecture.pdf)
 - [Electrical architecture summary](electrical-design/Electrical-Architecture-Extract.md)
 
