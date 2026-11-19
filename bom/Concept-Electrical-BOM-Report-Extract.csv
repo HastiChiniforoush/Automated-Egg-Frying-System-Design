@@ -1,0 +1,32 @@
+﻿Concept BOM ref,Component,Report specification,Quantity,Function,Reported cost (EUR),Source PDF page,Status / caution
+E-01,Main Controller (MCU),ESP32- WROOM-32E Custom PCB,1,Central machine control,25,30,Concept-stage list; not verified or purchased
+E-02,Touchscreen Display,7 inch TFT LCD Touchscreen,1,User interface and control,45,30,Concept-stage list; not verified or purchased
+E-03,Temperature Sensor,"PT100 RTD, Class A, 3-wire",1,Temperature monitoring,18,30,Concept-stage list; not verified or purchased
+E-04,PT100 Signal Conditioning Module,MAX31865 PT100 Amplifier,1,Converts PT100 signal for controller,12,30,Concept-stage list; not verified or purchased
+E-05,Solid State Relay (SSR),"25 A, 230 V AC Output",1,Heating power switching,15,30,Concept-stage list; not verified or purchased
+E-06,SSR Heat Sink,Aluminium Heat Sink,1,Prevents SSR overheating,8,30,Concept-stage list; not verified or purchased
+E-07,Thermal Fuse / Safety Thermostat,Thermal Cutoff Protection,1,Independent overheating protection,10,30,Concept-stage list; not verified or purchased
+E-08,Main DC Power Supply,"230 V AC to 24 V DC, 120 W",1,Main electrical power distribution,35,30,Concept-stage list; not verified or purchased
+E-09,DC-DC Converter,24 V to 5 V Buck Converter,1,Supplies low-voltage electronics,10,30,Concept-stage list; not verified or purchased
+E-10,Heating Element,"230 V AC Heating Plate, 800–1000 W",1,Generates cooking heat,40,30,Concept-stage list; not verified or purchased
+E-11,Voltage Regulator,5 V to 3.3 V Regulator,1,Supplies 3.3 V logic components,6,30,Concept-stage list; not verified or purchased
+E-12,Stepper Motor,NEMA 17 Stepper Motor,3,"Feeding, oil pumping and serving movement",50,30,Concept-stage list; not verified or purchased
+E-13,Motor Driver Module,DRV8825 / TMC2208,3,Controls motor operation,12,30,Concept-stage list; not verified or purchased
+E-14,Oil Pump,Food-grade Peristaltic Pump,1,Pumps oil to frying unit,20,30,Concept-stage list; not verified or purchased
+E-15,Pump Driver,MOSFET Driver Module,1,Controls oil pump,7,30,Concept-stage list; not verified or purchased
+E-16,Oil Level Sensor,Float / Capacitive Sensor,1,Detects low oil level,9,30,Concept-stage list; not verified or purchased
+E-17,Egg Detection Sensor,IR Break-beam Sensor,2,Detects egg presence and position,14,31,Concept-stage list; not verified or purchased
+E-18,Egg Storage / Count Sensor,IR Counting Sensor,1,Monitors remaining eggs,11,31,Concept-stage list; not verified or purchased
+E-19,Cooling Fan,24 V DC Fan,1,Internal cooling and ventilation,10,31,Concept-stage list; not verified or purchased
+E-20,Limit Switch,Mechanical Micro Limit Switch,4,Position detection and safety,16,31,Concept-stage list; not verified or purchased
+E-21,Fan Guard,Metal / Plastic Fan Guard,1,Protects fan area,4,31,Concept-stage list; not verified or purchased
+E-22,Emergency Stop Switch,Industrial E- Stop,1,Safety shutdown,18,31,Concept-stage list; not verified or purchased
+E-23,Main ON/OFF Switch,230 V AC Rated Switch,1,Main power control,6,31,Concept-stage list; not verified or purchased
+E-24,Fuse and Fuse Holder,Slow-blow Fuse Assembly,1,Overcurrent protection,8,31,Concept-stage list; not verified or purchased
+E-25,Protective Earth Terminal,PE Grounding Terminal,1,Electrical safety and grounding,5,31,Concept-stage list; not verified or purchased
+E-26,Wiring Set,Heat-resistant Wiring,Assorted,Electrical connections,20,31,Concept-stage list; not verified or purchased
+E-27,Terminal Blocks / Connectors,Screw/Spring Connectors,Assorted,Secure electrical connections,10,31,Concept-stage list; not verified or purchased
+E-28,Electronics Enclosure,IP54 Enclosure,1,Houses electrical components,22,31,Concept-stage list; not verified or purchased
+E-29,Cable Glands / Strain Reliefs,IP-rated Cable Glands,Assorted,Cable protection,8,31,Concept-stage list; not verified or purchased
+E-30,PCB Protection Components,"TVS Diodes, Capacitors, Resistors",Assorted,Circuit protection and stability,10,31,Concept-stage list; not verified or purchased
+E-31,Sensor/Motor Connectors,JST/Molex Connectors,Assorted,Modular assembly and maintenance,9,31,Concept-stage list; not verified or purchased

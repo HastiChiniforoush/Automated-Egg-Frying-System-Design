@@ -1,0 +1,55 @@
+﻿Sourcing BOM ref,Component (report),Selected model / reported specification,Quantity (report),Reported line total (EUR; historic 2026),Source PDF page,Status
+E-01,ESP32 controller,"ESP32-WROOM-32E-H4, 4 MB flash, PCB antenna",1,4.35,73,Preliminary selection; prices and electrical fit not independently verified
+E-02,7-inch touchscreen HMI,"Nextion NX8048P070-011C, 800x480, UART TTL, 5 V, capacitive touch",1,80.50 excl VAT,73,Preliminary selection; prices and electrical fit not independently verified
+E-03,PT100 sensor,"Stainless-steel PT100 Class A probe, 2 m cable",1,12.49,73,Preliminary selection; prices and electrical fit not independently verified
+E-04,MAX31865 interface,"Adafruit 3328 MAX31865 RTD amplifier, PT100, SPI",1,19.95,73,Preliminary selection; prices and electrical fit not independently verified
+E-05,Reference resistor,"430 ohm, 0.1-1% for MAX31865",1,0.10,73,Preliminary selection; prices and electrical fit not independently verified
+E-06,AC/DC power supply,"Mean Well LRS-150-24, 230 VAC to 24 VDC, 156 W, 6.5 A",1,15.90,74,Preliminary selection; prices and electrical fit not independently verified
+E-07,DC/DC buck converter,"LM2596 adjustable, 24 V to 5 V, 3 A class",1,2.95,74,Preliminary selection; prices and electrical fit not independently verified
+E-08,3.3 V regulator,"LM1117T/AMS1117-3.3, 5 V to 3.3 V",1,0.59,74,Preliminary selection; prices and electrical fit not independently verified
+E-09,Heating cartridge,"HOTSET hotrod HT4020826, diameter 8 x 80 mm, 400 W, 230 V",4,115.80,74,Preliminary selection; prices and electrical fit not independently verified
+E-10,Solid-state relay,"SSR-25DA, 25 A, 3-32 VDC input, 24-380 VAC output",1,4.20,74,Preliminary selection; prices and electrical fit not independently verified
+E-11,Thermal cutoff / thermostat,"Normally closed safety thermostat / thermal cutoff, 230 VAC heater protection",1,8.00,74,Preliminary selection; prices and electrical fit not independently verified
+E-12,Main fuse,"T10A slow-blow, 250 VAC, 5 x 20 mm",1,1.00,74,Preliminary selection; prices and electrical fit not independently verified
+E-13,Emergency stop,"22 mm mushroom, latching, 1NO+1NC or NC contact",1,12.99,74,Preliminary selection; prices and electrical fit not independently verified
+E-14,Main ON/OFF switch,"230 VAC rocker, 10 A class",1,3.62,74,Preliminary selection; prices and electrical fit not independently verified
+E-15,Protective earth terminal,PE terminal block / grounding point,1,2.00,74,Preliminary selection; prices and electrical fit not independently verified
+E-16,Feeding stepper motor,"Joy-it NEMA17-04, 1.8 degrees, 1.5 A, 0.45 Nm class",1,27.98,74,Preliminary selection; prices and electrical fit not independently verified
+E-17,Rotating pan stepper motor,"Joy-it NEMA17-04, same as feeding motor",1,27.98,74,Preliminary selection; prices and electrical fit not independently verified
+E-18,Stepper driver modules,"DRV8825 module with heatsink, 8.2-45 V motor supply",2,13.98,74,Preliminary selection; prices and electrical fit not independently verified
+E-19,Cracking servo,"Waveshare MG996R, metal gear, 180 degrees, 5-6 V PWM",1,5.94,74,Preliminary selection; prices and electrical fit not independently verified
+E-20,Serving arm servo 1,"Waveshare MG996R, metal gear, 180 degrees, 5-6 V PWM",1,5.94,74,Preliminary selection; prices and electrical fit not independently verified
+E-21,Serving arm servo 2,"Waveshare MG996R, metal gear, 180 degrees, 5-6 V PWM",1,5.94,75,Preliminary selection; prices and electrical fit not independently verified
+E-22,Cracking assembly linear servo,"Waveshare MG996R, metal gear, 180 degrees, 5-6 V PWM",1,5.94,75,Preliminary selection; prices and electrical fit not independently verified
+E-23,Cracking solenoid,24 V DC solenoid / actuator; exact stroke/force not finalized,1,11.65,75,Preliminary selection; prices and electrical fit not independently verified
+E-24,Oil pump,24 V DC food-grade peristaltic pump,1,68.04,75,Preliminary selection; prices and electrical fit not independently verified
+E-25,Cooling fan,"RS PRO 80 mm, 24 V DC axial fan",1,~17.50,75,Preliminary selection; prices and electrical fit not independently verified
+E-26,MOSFETs,"IRLZ44N logic-level N-MOSFET for pump, fan and solenoid",3,4.35,75,Preliminary selection; prices and electrical fit not independently verified
+E-27,Flyback diodes,"1N4007, 1 A, 1000 V diode",3,0.30,75,Preliminary selection; prices and electrical fit not independently verified
+E-28,Egg position sensor,"IR break-beam / optical 5 V module, digital output; exact model not fixed",1,5.00,75,Preliminary selection; prices and electrical fit not independently verified
+E-29,Cracking position sensor,"IR break-beam / optical 5 V module, digital output; exact model not fixed",1,5.00,75,Preliminary selection; prices and electrical fit not independently verified
+E-30,Egg count sensor,"IR counting sensor / break-beam pair, 5 V digital output",1,5.00,75,Preliminary selection; prices and electrical fit not independently verified
+E-31,Oil level sensor,"XKC-Y25-V non-contact capacitive level sensor, 5-24 V",1,9.68,75,Preliminary selection; prices and electrical fit not independently verified
+E-32,Sensor pull-up resistors,10 kohm resistors,4,0.20,75,Preliminary selection; prices and electrical fit not independently verified
+E-33,MOSFET gate resistors,220 ohm resistors,3,0.15,75,Preliminary selection; prices and electrical fit not independently verified
+E-34,MOSFET gate pull-down resistors,10 kohm resistors,3,0.15,75,Preliminary selection; prices and electrical fit not independently verified
+E-35,ESP32 EN/BOOT resistors,10 kohm resistors,2,0.10,75,Preliminary selection; prices and electrical fit not independently verified
+E-36,RESET/BOOT push buttons,Momentary tactile push buttons,2,0.60,76,Preliminary selection; prices and electrical fit not independently verified
+E-37,100 nF capacitors,Ceramic decoupling capacitors,5,0.25,76,Preliminary selection; prices and electrical fit not independently verified
+E-38,10 uF capacitors,Bulk/decoupling capacitors,2,0.30,76,Preliminary selection; prices and electrical fit not independently verified
+E-39,47 uF capacitor,Electrolytic capacitor,1,0.25,76,Preliminary selection; prices and electrical fit not independently verified
+E-40,100 uF capacitors,35 V electrolytic capacitors,3,1.20,76,Preliminary selection; prices and electrical fit not independently verified
+E-41,3-pin connectors,4 sensors + 4 servos,8,4.00,76,Preliminary selection; prices and electrical fit not independently verified
+E-42,4-pin motor connectors,2 NEMA17 motors,2,1.60,76,Preliminary selection; prices and electrical fit not independently verified
+E-43,4-pin HMI connector,"+5 V, GND, TX, RX",1,0.80,76,Preliminary selection; prices and electrical fit not independently verified
+E-44,2-pin load connectors,"4 heaters, pump, fan, solenoid, PT100 (as reported)",8,4.80,76,Preliminary selection; prices and electrical fit not independently verified
+E-45,AC input connector,"L, N, PE, 230 VAC rated",1,2.00,76,Preliminary selection; prices and electrical fit not independently verified
+E-46,UART programming header,6-pin header,1,0.50,76,Preliminary selection; prices and electrical fit not independently verified
+E-47,Heat-resistant wiring,"230 VAC/heater wiring, 2 m",1,4.00,76,Preliminary selection; prices and electrical fit not independently verified
+E-48,Low-voltage wiring,"24 V / 5 V wiring, 3 m",1,3.00,76,Preliminary selection; prices and electrical fit not independently verified
+E-49,Signal wiring,"Sensor/PWM/UART/SPI wiring, 5 m",1,2.50,76,Preliminary selection; prices and electrical fit not independently verified
+E-50,Electronics enclosure,IP54 electrical enclosure,1,22.00,76,Preliminary selection; prices and electrical fit not independently verified
+E-51,Cable glands / strain reliefs,IP-rated cable glands,6,7.80,76,Preliminary selection; prices and electrical fit not independently verified
+E-52,Electrical assembly,"Wiring, labeling, integration, testing",1 set,not priced (make),76,Preliminary selection; prices and electrical fit not independently verified
+E-53,Custom controller PCB,"2-layer FR4 PCB: ESP32 module, MAX31865 interface, MOSFET drivers, regulator, connectors, signal routing",1,50-100,76,Preliminary selection; prices and electrical fit not independently verified
+E-54,PCB assembly / soldering,"Manual headers, connectors, passives, MOSFETs, regulator, module mounting",1 set,30-60,77,Preliminary selection; prices and electrical fit not independently verified
