@@ -1,0 +1,11 @@
+﻿ID,Subsystem,Proposed verification activity,Planned acceptance / review focus,Execution status,Source report pages
+V-01,PT100 sensor interface,Check intended PT100/MAX31865 connection and readout logic,Expected range and interface per design; measure error only after prototype exists,Not performed,83-84
+V-02,Sensor open/short behavior,Evaluate disconnected or implausible temperature input,Controller must not silently treat a sensor error as a normal temperature,Not performed,"45,49-52,83-84"
+V-03,Heating-control chain,"Review SSR drive command, isolation, load path and output state",As-designed functional command interface; safety validation requires separate review,Not performed,"36-37,74,83-84"
+V-04,Thermal protection design,Compare cutoff setpoint with heating operating range,Resolve report inconsistency before selecting protection device,Not performed,"74,83-85"
+V-05,DC power distribution,"Check 24 V, 5 V and 3.3 V rails under predicted simultaneous loads",Calculate rail demand and regulator thermal margin,Not performed,"30,74,84-85"
+V-06,Egg detection/count inputs,Plan optical sensor state and miscount tests,Detect valid state changes and report blocked/failed sensors,Not performed,"45,75,86"
+V-07,Oil level monitoring,Check output voltage compatibility and low-oil response,Compatible safe input plus suitable low-level indication,Not performed,"45,75,86"
+V-08,Actuator interfaces,"Plan stepper, servo, solenoid, oil pump tests and driver limits",Verify each motor/driver pair under defined loads before integration,Not performed,65-75
+V-09,Emergency stop and power isolation,Review emergency stop contacts and isolation architecture,Independent safety design review needed; no certification demonstrated,Not performed,"31,74,87"
+V-10,Electrical integration,"Plan schematic-to-BOM check, connector pinout and continuity tests",Resolve conflicting BOMs; verify wiring and protective earth before hardware work,Not performed,"30-31,73-77,82-87"
