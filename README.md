@@ -53,3 +53,29 @@ The design work considered controller/sensor interfaces, actuator drivers, tempe
 ## Source and Attribution
 
 Prepared from the team's *Egg Frying Machine* report, submitted **12 May 2026** as part of Group Project 04. This repository describes the contributor's work and summaries of the group concept. Original shared documents or diagrams should be uploaded only where all necessary publication permissions exist, and personal/student details should be removed.
+
+## Engineering Files and Evidence
+
+### Electrical system
+- [Circuit diagram (extracted image)](electrical-design/Electrical-Circuit-Diagram.png)
+- [Circuit diagram (PDF page extract)](electrical-design/Electrical-Circuit-Diagram-Report-Extract.pdf)
+- [Electrical architecture summary](electrical-design/Electrical-Architecture-Extract.md)
+
+### Sensors and components
+- [Measurement chain and sensor selection](sensors/Measurement-Chain-and-Sensors.md)
+- [Concept electrical BOM - 31 items](bom/Concept-Electrical-BOM-Report-Extract.csv)
+- [Sourcing electrical BOM - 54 items](bom/Sourcing-Electrical-BOM-Report-Extract.csv)
+- [BOM discrepancies and unresolved design decisions](bom/BOM-Discrepancies.md)
+
+### Verification and documentation
+- [Proposed verification plan](verification/Hardware-Verification-Plan.md)
+- [Proposed verification matrix](verification/Proposed-Verification-Matrix.csv)
+- [Focused electrical engineering report (PDF)](docs/Electrical-Design-Report-Extract.pdf)
+- [Source mapping and project limitations](docs/Source-Mapping-and-Limitations.md)
+
+### Original project illustrations (team-authored; permission required)
+- [Group functional-structure diagram](images/Group-Functional-Structure.png)
+- [Group rough sketch](images/Group-Concept-Sketch.jpg)
+
+**Project status:** Academic design concept only; no physical prototype or experimental validation is claimed.
+
